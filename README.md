@@ -39,7 +39,7 @@ Installation
 Clone the repository:
 
 git clone  https://github.com/rajendrasrao/MultiPrompt-LangChain-Illustrations.git
-cd multiprompt-langchain
+cd MultiPrompt-LangChain-Illustrations
 
 Install dependencies:
 pip install -r requirements.txt
