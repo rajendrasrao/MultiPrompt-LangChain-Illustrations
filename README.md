@@ -38,7 +38,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/your-username/multiprompt-langchain.git
+git clone  https://github.com/rajendrasrao/MultiPrompt-LangChain-Illustrations.git
 cd multiprompt-langchain
 
 Install dependencies:
