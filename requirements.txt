@@ -1,0 +1,9 @@
+langchain_community
+langchain_experimental
+langchain-openai
+langchainhub
+chromadb
+langchain
+streamlit
+beautifulsoup4
+langchain_google_genai

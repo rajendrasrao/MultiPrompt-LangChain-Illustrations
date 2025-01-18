@@ -1,0 +1,6 @@
+Create vartual env with python 3.11.7
+python -m venv .multiprompt-app
+
+activate virtual env 
+.\.multiprompt-app\Scripts\activate
+
