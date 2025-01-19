@@ -48,7 +48,7 @@ Run the Application
 
 Start the Streamlit app:
 
-streamlit run app.py
+streamlit run init_add_prompt.py
 
 Open your browser and navigate to http://localhost:8501 to interact with the UI.
 
