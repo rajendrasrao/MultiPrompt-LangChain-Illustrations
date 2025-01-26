@@ -23,8 +23,7 @@ When a user asks a question, LangChain uses a relevance mechanism to select the 
 
 The selected expert generates the response.
 
-**Setup Instructions
-**
+**Setup Instructions**
 **Prerequisites**
 
 Python 3.8 or higher
