@@ -2,8 +2,7 @@
 
 This repository demonstrates how to implement a MultiPrompt setup using LangChain and Streamlit. With this setup, users can add multiple prompt experts through a Streamlit UI and query them to receive responses based on the most relevant prompt.
 
-**Features
-**
+**Features**
 **Multiple Prompt Experts**: Define and manage multiple prompts, each tailored to specific types of queries.
 
 **Streamlit Integration**: A user-friendly web interface to add, edit, and manage prompts dynamically.
