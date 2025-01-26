@@ -35,7 +35,8 @@ LangChain library installed
 **Installation**
 
 **Clone the repository:**
-**git clone** 
+**git clone**
+
 git clone https://github.com/rajendrasrao/MultiPrompt-LangChain-Illustrations.git
 cd MultiPrompt-LangChain-Illustrations
 
