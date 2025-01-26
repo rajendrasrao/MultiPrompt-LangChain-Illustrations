@@ -43,6 +43,10 @@ cd MultiPrompt-LangChain-Illustrations
 
 pip install -r requirements.txt
 
+**.env file setup**:
+please create .env file and set below env var for google gemeni APi key.
+GOOGLE_API_KEY=your gemeni api key (.env file is added in .gitignore file)
+
 **Run the Application**
 
 Start the Streamlit app:
