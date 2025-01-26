@@ -10,6 +10,7 @@ This repository demonstrates how to implement a MultiPrompt setup using LangChai
 **Query Resolution**: Ask questions, and LangChain determines the most relevant prompt expert to provide a response.
 
 **How It Works**
+
 **Prompt Management**
 
 Use the Streamlit UI to add prompt experts.
