@@ -5,7 +5,7 @@ colorFrom: blue
 colorTo: red
 sdk: streamlit
 sdk_version: 1.42.0
-app_file: app.py
+app_file: multi_prompt.py
 pinned: false
 license: apache-2.0
 short_description: Refined langgraphAgenticAI
